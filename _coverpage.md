@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">CYR的个人学习网站</h1>
 
-[GitHub](https://github.com/Marcia-chen/study)
+[GitHub](https://github.com/Marcia-chen)
 
 
 

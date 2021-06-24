@@ -1,19 +1,16 @@
+* 基础知识
 
-* [备战面试](./docs/a-1备战面试.md)
-  
-* 皮肤电基础
+  * [皮肤电基础](./docs/a-1皮肤电基础知识.md)
+  * [统计知识](./docs/a-2统计知识.md)
 
-  * [Java基础](./docs/b-1面试题总结-Java基础.md)
-  * [Java集合](./docs/b-2Java集合.md)
-  * [Java多线程](./docs/b-3Java多线程.md)
-  * [jvm](./docs/b-4jvm.md)
 
 * 文献阅读
 
-  * [计算机网络](./docs/c-1计算机网络.md)
-  * [数据结构](./docs/c-2数据结构.md)
-  * [算法](./docs/c-3算法.md)
-  * [操作系统](./docs/c-4操作系统.md)
+  * [1](./docs/b-1.md)
+  * [2](./docs/b-2.md)
+  * [3](./docs/b-3.md)
+  * [4](./docs/b-4.md)
+  * [5](./docs/b-5.md)
 
   
 
